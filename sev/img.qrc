@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/img-erNotDost.jpg</file>
+        <file>img/img-erNotSignal.jpg</file>
+        <file>img/img-erNotSinh.jpg</file>
+        <file>img/img-erOpen.jpg</file>
+        <file>img/img-norma.jpg</file>
+        <file>img/img-start.jpg</file>
+        <file>img/errTray.bmp</file>
+        <file>img/normaTray.bmp</file>
+        <file>img/offTray.bmp</file>
+        <file>img/sinchro.png</file>
+        <file>img/icon.png</file>
+    </qresource>
+</RCC>
